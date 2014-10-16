@@ -1,6 +1,6 @@
 
 public class Test {
 	
-	private String test="Better Test";
+	private String test="The best Test";
 
 }
